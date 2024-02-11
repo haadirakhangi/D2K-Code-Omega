@@ -1,3 +1,6 @@
 chainlit
 langchain
 langchain-openai
+langchain-experimental
+pandas
+tabulate
