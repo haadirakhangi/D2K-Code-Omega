@@ -1,5 +1,4 @@
 *.zip
-*.txt
 .env
 __pycache__/
 venv
